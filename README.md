@@ -25,12 +25,17 @@ See [Configuring quasar.conf.js](https://v1.quasar.dev/quasar-cli/quasar-conf-js
 ### Screenshots
 Web:
 
-![image](https://user-images.githubusercontent.com/68564246/118153297-51537100-b448-11eb-999e-c3d87979eb45.png)
-![image](https://user-images.githubusercontent.com/68564246/118153437-7ba52e80-b448-11eb-9ec1-854963c91c7e.png)
-Mobile:
+  <img src="https://user-images.githubusercontent.com/68564246/118156183-a5ac2000-b44b-11eb-87b8-7ecd5d929fb3.png" alt="alt text" width="500" height="300">
+  <img src="https://user-images.githubusercontent.com/68564246/118153297-51537100-b448-11eb-999e-c3d87979eb45.png" alt="alt text" width="500" height="300">
 
-![image](https://user-images.githubusercontent.com/68564246/118153586-a7281900-b448-11eb-96c4-2499d754f215.png)
-![image](https://user-images.githubusercontent.com/68564246/118153617-ae4f2700-b448-11eb-952a-b11d7040f693.png)
+Mobile:
+<p float="left">
+  <img src="https://user-images.githubusercontent.com/68564246/118157396-156eda80-b44d-11eb-937e-fb0793ea10a6.png" alt="alt text" width="300" height="600"/>
+  <img src="https://user-images.githubusercontent.com/68564246/118157389-1142bd00-b44d-11eb-9fc3-5cd3860d33f0.png" width="300" height="600"/>
+</p>
+<img src="https://user-images.githubusercontent.com/68564246/118157396-156eda80-b44d-11eb-937e-fb0793ea10a6.png" alt="alt text" width="300" height="600"/>
+<img src="https://user-images.githubusercontent.com/68564246/118157389-1142bd00-b44d-11eb-9fc3-5cd3860d33f0.png" width="300" height="600"/>
+
 
 ### Demo
 
